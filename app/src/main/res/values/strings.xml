@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stormyindie</string>
+    <string name="title_for_dialog">oops something went wrong !!</string>
+    <string name="Message_for_dialog">there was an error please try again</string>
+    <string name="poso">OK</string>
+    <string name="network_unavailable_message">network is unavailable</string>
+</resources>
